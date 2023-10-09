@@ -1,2 +1,2 @@
 # Android
-This is Dice Roller2
+This is Dice Roller
